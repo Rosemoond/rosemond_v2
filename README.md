@@ -1,1 +1,1 @@
-https://github.com/Rosemoond/rosemond_v2/index.html
+https://rosemoond.github.io/rosemond_v2/index.html
