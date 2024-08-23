@@ -116,14 +116,14 @@ footer {
 .slider {
     position: relative;
     overflow: hidden;
-    border: solid 4px white;
+    /*border: solid 4px white;*/
   }
 
   .slider__wrapper {
     display: flex;
     width: 100%;
     transition: transform 0.6s ease;
-    border: solid 3px purple;
+    /*border: solid 3px purple;*/
   }
 
   .slider__item {
@@ -131,7 +131,7 @@ footer {
     /*flex: 0 0 100%;*/
     min-width: 1920px;
     height: 600px;
-    border: solid 2px blue;
+    /*border: solid 2px blue;*/
   }
 
   /*@media (min-width: 980px) {
@@ -192,7 +192,7 @@ footer {
   .slider__item>div {
     line-height: 3;
     text-align: center;
-    border: solid 2px red;
+    /*border: solid 2px red;*/
   }
 /*КОНЕЦ СЛАЙДЕРА*/
 
