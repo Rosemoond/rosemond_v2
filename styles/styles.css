@@ -78,7 +78,6 @@ header {
     background-position: top;
     background-repeat: no-repeat;
     background-size: 100%;
-    /*border: solid 2px red;*/
 }
 .merigold {
   width: 50%;
@@ -86,7 +85,6 @@ header {
   background-position: top;
   background-repeat: no-repeat;
   background-size: 100%;
-  /*border: solid 2px red;*/
 }
 .yenn {
   width: 50%;
@@ -94,7 +92,6 @@ header {
   background-position: top;
   background-repeat: no-repeat;
   background-size: 100%;
-  /*border: solid 2px red;*/
 }
 .lilacstorm {
   width: 50%;
@@ -102,7 +99,6 @@ header {
   background-position: top;
   background-repeat: no-repeat;
   background-size: 100%;
-  /*border: solid 2px red;*/
 }
 .text {
     color: whitesmoke;
@@ -110,7 +106,6 @@ header {
     background-color: #232323;
     text-align: center;
     line-height: 2.5;
-    /*border: solid 2px green;*/
     margin: 50px;
 }
 footer {
